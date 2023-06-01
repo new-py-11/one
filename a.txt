@@ -1,1 +1,3 @@
-new line in local
+
+new line is written in remote
+>>>>>>> 
