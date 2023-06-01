@@ -1,3 +1,2 @@
 
-new line is written in remote
->>>>>>> 
+new line is changed in testing branch
